@@ -4,7 +4,7 @@ import xlrd     # import
 
 # open workbook
 
-workbook = xlrd.open_workbook('first-file.xlsx')
+workbook = xlrd.open_workbook('first_file.xlsx')
 
 
 
