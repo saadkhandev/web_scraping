@@ -1,0 +1,17 @@
+tags in tags.html :
+1. html
+2. head
+3. meta
+4. title
+5. body
+6. p
+7. p
+
+you can think of a page of html as having a tree structure. For the file tags.html, it has the following structure:
+                                                html
+                                head                            body
+                        meta            title           p                   p
+
+tags have attributes
+Like the first p tag has attribute style which sets its color to blue
+The second p tag has attribute style which sets its font-style to italic
